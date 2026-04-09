@@ -1,0 +1,12 @@
+{
+  "name": "playwright-qa-framework",
+  "version": "1.0.0",
+  "description": "QA Automation Framework with Playwright and POM",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
